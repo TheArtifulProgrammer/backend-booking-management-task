@@ -5,7 +5,7 @@ A lightweight REST API that supports booking and timesheet approval flow with in
 ## Setup Instructions
 
 1. Clone this repository `https://github.com/TheArtifulProgrammer/backend-booking-management-task.git`
-2. Open the directory `backend-booking-management-task`
+2. Open the directory `cd backend-booking-management-task`
 3. Install dependencies: `npm install`
 4. Start the server: `npm run dev`
 
