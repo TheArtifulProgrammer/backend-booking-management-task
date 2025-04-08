@@ -1,0 +1,35 @@
+{
+  "name": "backend-booking-management-task",
+  "version": "1.0.0",
+  "description": "Backend Booking Management Task",
+  "keywords": [
+    "booking",
+    "backend",
+    "express"
+  ],
+  "homepage": "https://github.com/TheArtifulProgrammer/backend-booking-management-task#readme",
+  "bugs": {
+    "url": "https://github.com/TheArtifulProgrammer/backend-booking-management-task/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheArtifulProgrammer/backend-booking-management-task.git"
+  },
+  "license": "ISC",
+  "author": "theartifulprogrammer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
