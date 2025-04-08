@@ -54,9 +54,3 @@ curl -X POST http://localhost:8000/bookings/[booking-id]/timesheet \
         "action": "approve"
     }'
 ```
-
-## Running the Application
-
-1. Install dependencies: `npm install`
-2. Start the server: `npm start`
-3. The API will be available at <http://localhost:8000>
